@@ -5,3 +5,7 @@
 * [Link](https://github.com/jwasham/coding-interview-university)
 * Link 3
 
+
+
+Bash tips
+* [bash tips](https://github.com/vsbuffalo/devnotes/wiki/Bash-Script-Tips)
