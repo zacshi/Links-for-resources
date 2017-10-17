@@ -15,3 +15,4 @@ Bash tips
 Misc colllection
 * [TCGA data access related](https://github.com/OmnesRes/knick_knacks)
 * [Oncolnc](https://github.com/OmnesRes/onco_lnc)
+* [NGS-docs](https://github.com/ngs-docs)
