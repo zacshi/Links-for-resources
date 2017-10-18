@@ -5,6 +5,8 @@
 * [Link](https://github.com/jwasham/coding-interview-university)
 * Link 3
 
+Python tips
+* [how to leetcode](https://github.com/illuz/leetcode)
 
 
 Bash tips
