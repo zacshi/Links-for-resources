@@ -13,6 +13,8 @@ Bash tips
 * [bash tips](https://github.com/vsbuffalo/devnotes/wiki/Bash-Script-Tips)
 * [Unix Workbend by Sean Kross](http://seankross.com/the-unix-workbench/)
 
+Single cell RNA-seq
+* [Comprehensive course](https://hemberg-lab.github.io/scRNA.seq.course/index.html)
 
 Misc colllection
 * [TCGA data access related](https://github.com/OmnesRes/knick_knacks)
