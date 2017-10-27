@@ -21,3 +21,5 @@ Misc colllection
 * [Oncolnc](https://github.com/OmnesRes/onco_lnc)
 * [NGS-docs](https://github.com/ngs-docs)
 * [Programming for Biology 2017](https://github.com/srobb1/pfb2017)
+* [Survminer](https://github.com/kassambara/survminer)
+
