@@ -18,6 +18,7 @@ Single cell RNA-seq
 
 Misc colllection
 * [TCGA data access related](https://github.com/OmnesRes/knick_knacks)
+* [RTCGA.clinical](http://www.bioconductor.org/packages/release/data/experiment/vignettes/RTCGA.clinical/inst/doc/downloading_clinical_datasets.html)
 * [Oncolnc](https://github.com/OmnesRes/onco_lnc)
 * [NGS-docs](https://github.com/ngs-docs)
 * [Programming for Biology 2017](https://github.com/srobb1/pfb2017)
