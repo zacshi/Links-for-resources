@@ -24,4 +24,5 @@ Misc colllection
 * [Programming for Biology 2017](https://github.com/srobb1/pfb2017)
 * [Survminer](https://github.com/kassambara/survminer)
 * [Bioinfo Intro](https://github.com/jmzeng1314/bioinformatics123)
+* [Data Science Skills](https://woaielf.github.io/2016/09/11/data-science/)
 
