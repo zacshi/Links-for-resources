@@ -7,6 +7,7 @@
 
 Python tips
 * [how to leetcode](https://github.com/illuz/leetcode)
+* [To learn python](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 
 
 Bash tips
