@@ -5,6 +5,9 @@
 * [Link](https://github.com/jwasham/coding-interview-university)
 * Link 3
 
+R packaages and tips
+* [r-Galaxy-connector](https://github.com/scholtalbers/r-galaxy-connector)
+
 Python tips
 * [how to leetcode](https://github.com/illuz/leetcode)
 * [To learn python](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
