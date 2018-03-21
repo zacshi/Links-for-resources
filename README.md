@@ -8,6 +8,7 @@
 R packaages and tips
 * [r-Galaxy-connector](https://github.com/scholtalbers/r-galaxy-connector)
 * [Put ggplot togehter](https://github.com/thomasp85/patchwork)
+* [RCircos](https://github.com/cran/RCircos/tree/master/demo)
 
 Python tips
 * [how to leetcode](https://github.com/illuz/leetcode)
