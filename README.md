@@ -22,6 +22,9 @@ Bash tips
 Single cell RNA-seq
 * [Comprehensive course](https://hemberg-lab.github.io/scRNA.seq.course/index.html)
 
+Variants
+* [Mutalyzer](https://github.com/mutalyzer/description-extractor)
+
 Misc colllection
 * [TCGA data access related](https://github.com/OmnesRes/knick_knacks)
 * [RTCGA.clinical](http://www.bioconductor.org/packages/release/data/experiment/vignettes/RTCGA.clinical/inst/doc/downloading_clinical_datasets.html)
