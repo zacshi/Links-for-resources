@@ -13,6 +13,7 @@ R packaages and tips
 Python tips
 * [how to leetcode](https://github.com/illuz/leetcode)
 * [To learn python](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
+* [Progromming for Biologist 2017](https://github.com/srobb1/pfb2017)
 
 
 Bash tips
