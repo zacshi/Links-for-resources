@@ -25,6 +25,7 @@ Single cell RNA-seq
 
 Variants
 * [Mutalyzer](https://github.com/mutalyzer/description-extractor)
+* [BlueCollarBioinformatics](https://github.com/bcbio/bcbio-nextgen)
 
 Misc colllection
 * [TCGA data access related](https://github.com/OmnesRes/knick_knacks)
