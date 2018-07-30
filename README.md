@@ -40,4 +40,5 @@ Misc colllection
 
 Comprehensive
 * [Bookmark from Yu](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md)
+* [Applied Computational Genomics](https://github.com/quinlan-lab/applied-computational-genomics)
 
