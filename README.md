@@ -37,6 +37,7 @@ Misc colllection
 * [Bioinfo Intro](https://github.com/jmzeng1314/bioinformatics123)
 * [Data Science Skills](https://woaielf.github.io/2016/09/11/data-science/)
 * [Genome-in-a-bottle](http://jimb.stanford.edu/giab/)
+* [Harvard Chan Bioinformatic Core](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course)
 
 Comprehensive
 * [Bookmark from Yu](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md)
