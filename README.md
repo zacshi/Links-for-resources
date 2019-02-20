@@ -2,7 +2,8 @@
 
 AWK
 * [GNU awk manual](http://www.gnu.org/software/gawk/manual/gawk.html)
-* [awk onliners](http://www.catonmat.net/blog/wp-content/uploads/2008/09/awk1line.txt)
+* [awk one liners](http://www.catonmat.net/blog/wp-content/uploads/2008/09/awk1line.txt)
+* [awk one Liners explained](http://www.catonmat.net/blog/awk-one-liners-explained-part-one/)
 * [awk CheatSheet](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/)
 
 
