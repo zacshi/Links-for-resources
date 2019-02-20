@@ -1,6 +1,13 @@
 # Bookmark: Links-for-resources
 
-[collection for awesone commputer courses](https://github.com/prakhar1989/awesome-courses)
+AWK
+* [GNU awk manual](http://www.gnu.org/software/gawk/manual/gawk.html)
+* [awk onliners](http://www.catonmat.net/blog/wp-content/uploads/2008/09/awk1line.txt)
+* [awk CheatSheet](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/)
+
+
+Collection of Awesome Courses
+* [collection for awesome commputer courses](https://github.com/prakhar1989/awesome-courses)
 * [Code interview university](https://github.com/jwasham/coding-interview-university)
 * [Link](https://github.com/jwasham/coding-interview-university)
 
