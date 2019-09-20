@@ -13,10 +13,11 @@ Collection of Awesome Courses
 * [Link](https://github.com/jwasham/coding-interview-university)
 
 
-R packaages and tips
+R packages and tips
 * [r-Galaxy-connector](https://github.com/scholtalbers/r-galaxy-connector)
 * [Put ggplot togehter](https://github.com/thomasp85/patchwork)
 * [RCircos](https://github.com/cran/RCircos/tree/master/demo)
+* [R-tutorials](https://data-flair.training/blogs/r-tutorials-home/)
 
 Python tips
 * [how to leetcode](https://github.com/illuz/leetcode)
