@@ -1,13 +1,13 @@
 # Bookmark: Links-for-resources
 
 Clinical Bioinformatics
-* [HGNC](www.genenames.org/)
-* [HGVS](www.hgvs.org/)
-* [LRG](www.lrg-sequence.org/)
-* [Genome Reference Consortium](www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/)
+* [HGNC](http://www.genenames.org/)
+* [HGVS](http://www.hgvs.org/)
+* [LRG](http://www.lrg-sequence.org/)
+* [Genome Reference Consortium](http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/)
 * [Mutalyzer](https://mutalyzer.nl/)
-* [Accession number guide](www.ncbi.nlm.nih.gov/Sequin/acc.html)
-* [INSDC](www.insdc.org/)
+* [Accession number guide](http://www.ncbi.nlm.nih.gov/Sequin/acc.html)
+* [INSDC](http://www.insdc.org/)
 * [Human Variome Project](http://www.humanvariomeproject.org/)
 * [1000 Genomes Project](http://www.1000genomes.org/)
 * [Mouse Genome Informatics](http://www.informatics.jax.org/)
@@ -16,9 +16,9 @@ Clinical Bioinformatics
 * [Personal genome project](http://www.personalgenomes.org/)
 * [DGV](http://dgv.tcag.ca/dgv/app/home)
 * [HGVS LSDB listing](http://www.hgvs.org/dblist/glsdb.html)
-* [ISCA](https://www.iscaconsortium.org/)
-* [LOVD](http://www.lovd.nl/2.0/www.ebi.ac.uk/Tools/msa/clustalo/)
-* [ALIGN-GVGD](www.agvgd.iarc.fr/agvgd_input.php)
+* [ISCA](https://http://www.iscaconsortium.org/)
+* [LOVD](http://http://www.lovd.nl/2.0/www.ebi.ac.uk/Tools/msa/clustalo/)
+* [ALIGN-GVGD](http://www.agvgd.iarc.fr/agvgd_input.php)
 
 
 AWK
