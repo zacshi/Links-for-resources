@@ -15,8 +15,8 @@ Clinical Bioinformatics
 * [UK 10000 genomes project](http://www.uk10k.org/)
 * [Personal genome project](http://www.personalgenomes.org/)
 * [DGV](http://dgv.tcag.ca/dgv/app/home)
-* [ISCA](https://http://www.iscaconsortium.org/)
-* [LOVD](http://http://www.lovd.nl/2.0/www.ebi.ac.uk/Tools/msa/clustalo/)
+* [ISCA](https://www.iscaconsortium.org/)
+* [LOVD](http://www.lovd.nl/2.0/www.ebi.ac.uk/Tools/msa/clustalo/)
 * [ALIGN-GVGD](http://www.agvgd.iarc.fr/agvgd_input.php)
 
 
