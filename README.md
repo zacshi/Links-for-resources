@@ -16,7 +16,7 @@ Clinical Bioinformatics
 * [Personal genome project](http://www.personalgenomes.org/)
 * [DGV](http://dgv.tcag.ca/dgv/app/home)
 * [ISCA](https://www.iscaconsortium.org/)
-* [LOVD](http://www.lovd.nl/2.0/www.ebi.ac.uk/Tools/msa/clustalo/)
+* [LOVD](http://www.lovd.nl/)
 * [ALIGN-GVGD](http://www.agvgd.iarc.fr/agvgd_input.php)
 
 
