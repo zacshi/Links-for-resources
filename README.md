@@ -17,7 +17,7 @@ Clinical Bioinformatics
 * [DGV](http://dgv.tcag.ca/dgv/app/home)
 * [ISCA](https://www.iscaconsortium.org/)
 * [LOVD](http://www.lovd.nl/)
-* [ALIGN-GVGD](http://www.agvgd.iarc.fr/)
+* [ALIGN-GVGD](http://agvgd.hci.utah.edu/agvgd_input.php)
 
 
 AWK
