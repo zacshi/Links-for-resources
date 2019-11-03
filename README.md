@@ -1,5 +1,25 @@
 # Bookmark: Links-for-resources
 
+* [HGNC](www.genenames.org/)
+* [HGVS](www.hgvs.org/)
+* [LRG](www.lrg-sequence.org/)
+* [Genome Reference Consortium](www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/)
+* [Mutalyzer](https://mutalyzer.nl/)
+* [Accession number guide](www.ncbi.nlm.nih.gov/Sequin/acc.html)
+* [INSDC](www.insdc.org/)
+* [Human Variome Project](http://www.humanvariomeproject.org/)
+* [1000 Genomes Project](http://www.1000genomes.org/)
+* [Mouse Genome Informatics](http://www.informatics.jax.org/)
+* [100000 Genomes Project](http://www.genomicsengland.co.uk/)
+* [UK 10000 genomes project](http://www.uk10k.org/)
+* [Personal genome project](http://www.personalgenomes.org/)
+* [DGV](http://dgv.tcag.ca/dgv/app/home)
+* [HGVS LSDB listing](http://www.hgvs.org/dblist/glsdb.html)
+* [ISCA](https://www.iscaconsortium.org/)
+* [LOVD](http://www.lovd.nl/2.0/www.ebi.ac.uk/Tools/msa/clustalo/)
+* [ALIGN-GVGD](www.agvgd.iarc.fr/agvgd_input.php)
+
+
 AWK
 * [GNU awk manual](http://www.gnu.org/software/gawk/manual/gawk.html)
 * [awk one liners](http://www.catonmat.net/blog/wp-content/uploads/2008/09/awk1line.txt)
