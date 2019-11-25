@@ -1,6 +1,6 @@
 # Bookmark: Links-for-resources
 
-Clinical Bioinformatics
+Frequently Used in Clinical Bioinformatics
 * [HGNC](http://www.genenames.org/)
 * [HGVS](http://www.hgvs.org/)
 * [LRG](http://www.lrg-sequence.org/)
