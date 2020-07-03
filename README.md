@@ -68,6 +68,7 @@ Misc colllection
 * [Data Science Skills](https://woaielf.github.io/2016/09/11/data-science/)
 * [Genome-in-a-bottle](http://jimb.stanford.edu/giab/)
 * [Harvard Chan Bioinformatic Core](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course)
+* [Singularity_container](https://www.sdsc.edu/Events/training/singularity_on_comet_2019/introduction-to-singularity.pdf)
 
 Comprehensive
 * [Bookmark from Yu](https://github.com/GuangchuangYu/bookmarks/blob/master/biobabble_index.md)
