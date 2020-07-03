@@ -1,5 +1,13 @@
 # Bookmark: Links-for-resources
 
+
+AWK
+* [GNU awk manual](http://www.gnu.org/software/gawk/manual/gawk.html)
+* [awk one liners](http://www.catonmat.net/blog/wp-content/uploads/2008/09/awk1line.txt)
+* [awk one Liners explained](http://www.catonmat.net/blog/awk-one-liners-explained-part-one/)
+* [awk CheatSheet](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/)
+
+
 Frequently Used in Clinical Bioinformatics
 * [HGNC](http://www.genenames.org/)
 * [HGVS](http://www.hgvs.org/)
@@ -19,12 +27,6 @@ Frequently Used in Clinical Bioinformatics
 * [LOVD](http://www.lovd.nl/)
 * [ALIGN-GVGD](http://agvgd.hci.utah.edu/agvgd_input.php)
 
-
-AWK
-* [GNU awk manual](http://www.gnu.org/software/gawk/manual/gawk.html)
-* [awk one liners](http://www.catonmat.net/blog/wp-content/uploads/2008/09/awk1line.txt)
-* [awk one Liners explained](http://www.catonmat.net/blog/awk-one-liners-explained-part-one/)
-* [awk CheatSheet](http://www.catonmat.net/blog/awk-nawk-and-gawk-cheat-sheet/)
 
 
 Collection of Awesome Courses
