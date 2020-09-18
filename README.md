@@ -32,7 +32,7 @@ Frequently Used in Clinical Bioinformatics
 Collection of Awesome Courses
 * [collection for awesome commputer courses](https://github.com/prakhar1989/awesome-courses)
 * [Code interview university](https://github.com/jwasham/coding-interview-university)
-* [Link](https://github.com/jwasham/coding-interview-university)
+
 
 
 R packages and tips
